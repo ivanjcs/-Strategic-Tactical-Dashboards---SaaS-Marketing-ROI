@@ -32,7 +32,8 @@ Growing SaaS companies often face a dangerous paradox: climbing sales volumes ac
     *   *Directed Attention:* Strategic use of pre-attentive attributes (color and spatial positioning) to guide the user's eye directly to critical insights.
 
 <p align="center">
-  <img src="imgs/SaaS/SaaS2.jpg" width="48%" alt="SaaS Profitability Dashboard Overview">
+  <img src="imgs/SaaS/SaaS1.jpg" width="48%" alt="SaaS Profitability Dashboard Overview">
+  <img src="imgs/SaaS/SaaS2.jpg" width="48%" alt="SaaS Dynamic Segmentation Details">
   <img src="imgs/SaaS/SaaS3.jpg" width="48%" alt="SaaS Dynamic Segmentation Details">
   <br>
   <i>Watch the Dynamic Segmentation in action:</i><br>
@@ -57,6 +58,7 @@ To eliminate technical noise, the architecture is divided into three analytical 
 A zero-code analytical product that delivers immediate financial answers, allowing leadership to confidently reallocate budget toward genuinely profitable channels.
 
 <p align="center">
+  <img src="imgs/Marketing/marketing1.png" width="48%" alt="General Analysis">
   <img src="imgs/Marketing/marketing2.png" width="48%" alt="Tactical Scatter Plot">
   <img src="imgs/Marketing/marketing3.png" width="48%" alt="Funnel Analysis">
   <br>
@@ -101,7 +103,8 @@ Las empresas SaaS en crecimiento suelen enfrentar una paradoja peligrosa: el aum
     *   *Atención Dirigida:* Uso estratégico de atributos preatentivos (color y posición) para guiar la vista hacia los insights críticos al instante.
 
 <p align="center">
-  <img src="imgs/SaaS/SaaS2.jpg" width="48%" alt="Vista General Dashboard SaaS">
+  <img src="imgs/SaaS/SaaS1.jpg" width="48%" alt="Vista General Dashboard SaaS">
+  <img src="imgs/SaaS/SaaS2.jpg" width="48%" alt="Detalles de Segmentación Dinámica SaaS">
   <img src="imgs/SaaS/SaaS3.jpg" width="48%" alt="Detalles de Segmentación Dinámica SaaS">
   <br>
   <i>Demostración de la Segmentación Dinámica:</i><br>
@@ -126,6 +129,7 @@ Para eliminar el ruido técnico, la arquitectura se dividió en tres capas:
 Un producto analítico *zero-code* que entrega respuestas financieras directas, permitiendo a la dirección reasignar el presupuesto hacia los canales verdaderamente rentables.
 
 <p align="center">
+  <img src="imgs/Marketing/marketing1.png" width="48%" alt="Análisis General">
   <img src="imgs/Marketing/marketing2.png" width="48%" alt="Gráfico de Dispersión Táctico">
   <img src="imgs/Marketing/marketing3.png" width="48%" alt="Análisis de Embudo">
   <br>
