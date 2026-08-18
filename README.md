@@ -50,12 +50,12 @@ Marketing departments often struggle with "black holes" in their budget. This pr
 ### Multi-Tiered Analytical Depth
 To eliminate technical noise, the architecture is divided into three analytical layers:
 
-1.  **Executive Summary:** A rapid scan of business health. Utilizes large-number KPIs (Total Spend, Revenue, ROAS, CAC) without distracting borders. A bullet chart visually contrasts baseline LTV against the CAC ceiling, paired with a traffic-light conditional formatting system that aggressively flags destructive channels (ROAS < 1.0) in red.
-2.  **Tactical Campaign Performance:** Designed for analytical "precision surgery". A scatter plot segments campaigns into 4 quadrants via reference lines, isolating "gold mines" (low spend, high conversion) from "black holes". An integrated data-bar matrix with alert icons allows users to pause losing campaigns without processing raw numerical tables.
-3.  **Friction Analysis:** A direct focus on sales funnel drop-offs. Features a horizontal funnel chart displaying exact percentage losses between impressions, clicks, and conversions. A supplementary line chart isolates the core metric (Conversion Rate %) to evaluate funnel efficiency week-over-week.
+1. **Executive Summary**: A quick scan of business health. It uses large numbers (Total Spend, Revenue, ROAS, CAC) without distracting borders. It includes a bullet chart contrasting LTV against the CAC threshold, and a traffic-light conditional formatting system highlighting destructive channels in deep red (ROAS < 1.0).
+2. **Tactical Performance**: Aims to find winners and kill losers. A scatter plot segments campaigns into 4 quadrants, isolating "gold mines" (low spend, high conversion) from "black holes" (high spend, low conversions). A clean matrix with data bars and alert icons allows you to pause losing campaigns instantly.
+3. **Friction Analysis**: Direct focus on sales funnel drop-offs, answering the question: Where do people drop off before buying? It features a horizontal funnel chart exposing the exact drop-off percentage between impressions, clicks, and conversions. A line chart isolates the Conversion Rate (%) to evaluate week-over-week efficiency over time.
 
 ### Actionable Insight
-A zero-code analytical product that delivers immediate financial answers, allowing leadership to confidently reallocate budget toward genuinely profitable channels.
+An analytical product that delivers immediate financial answers, allowing leadership to confidently reallocate budget toward genuinely profitable channels.
 
 <p align="center">
   <img src="imgs/Marketing/marketing1.png" width="48%" alt="General Analysis">
@@ -121,12 +121,12 @@ Los departamentos de marketing suelen luchar contra gastos ineficientes. Este pr
 ### Profundidad Analítica en 3 Niveles
 Para eliminar el ruido técnico, la arquitectura se dividió en tres capas:
 
-1.  **Resumen Ejecutivo:** Un escaneo rápido de la salud del negocio. Utiliza números en grande (Total Spend, Revenue, ROAS, CAC) sin bordes distractores. Incluye un gráfico de viñetas (bullet chart) que contrasta el LTV frente al límite del CAC, y un formato condicional tipo semáforo que resalta en rojo intenso los canales destructivos (ROAS < 1.0).
-2.  **Rendimiento Táctico:** Diseñado para la "cirugía de precisión". Un gráfico de dispersión segmenta las campañas en 4 cuadrantes, aislando las "minas de oro" (poco gasto, alta conversión) de los "agujeros negros". Una matriz limpia con barras de datos e íconos de alerta permite pausar campañas perdedoras instantáneamente.
-3.  **Análisis de Fricción:** Enfoque directo en las caídas del embudo de ventas. Presenta un gráfico de embudo horizontal que expone el porcentaje exacto de pérdida entre impresiones, clics y conversiones. Un gráfico de líneas aísla la Tasa de Conversión (%) para evaluar la eficiencia temporal semana a semana.
+1.  **Resumen Ejecutivo:** Un escaneo rápido de la salud del negocio. Utiliza números en grande (Total Spend, Revenue, ROAS, CAC) sin bordes distractores. Incluye un gráfico de viñetas que contrasta el LTV frente al límite del CAC, y un formato condicional tipo semáforo que resalta en rojo intenso los canales destructivos (ROAS < 1.0).
+2.  **Rendimiento Táctico:** Busca encontrar los ganadores y matar los perdedores. Un gráfico de dispersión segmenta las campañas en 4 cuadrantes, aislando las "minas de oro" (poco gasto, alta conversión) de los "agujeros negros" (mucho gasto, pocas conversiones). Una matriz limpia con barras de datos e íconos de alerta permite pausar campañas perdedoras instantáneamente.
+3.  **Análisis de Fricción:** Enfoque directo en las caídas del embudo de ventas, resuelve la pregunta: ¿Dónde se cae la gente antes de comprar?. Presenta un gráfico de embudo horizontal que expone el porcentaje exacto de pérdida entre impresiones, clics y conversiones. Un gráfico de líneas aísla la Tasa de Conversión (%) para evaluar la eficiencia temporal semana a semana.
 
 ### Información Accionable
-Un producto analítico *zero-code* que entrega respuestas financieras directas, permitiendo a la dirección reasignar el presupuesto hacia los canales verdaderamente rentables.
+Un producto analítico que entrega respuestas financieras directas, permitiendo a la dirección reasignar el presupuesto hacia los canales verdaderamente rentables.
 
 <p align="center">
   <img src="imgs/Marketing/marketing1.png" width="48%" alt="Análisis General">
