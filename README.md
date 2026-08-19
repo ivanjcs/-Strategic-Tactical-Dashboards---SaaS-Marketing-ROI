@@ -7,9 +7,8 @@
 <h1 id="english">📊 Strategic & Tactical Dashboards: SaaS Profitability & Marketing ROI</h1>
 
 <p align="center">
-  <!-- Reemplaza con tus 2 imágenes de presentación -->
-  <img src="path/to/presentation_image_1.png" width="48%" alt="Project Presentation 1">
-  <img src="path/to/presentation_image_2.png" width="48%" alt="Project Presentation 2">
+  <img src="imgs/SaaS/SaaS1.jpg" width="48%" alt="Strategic SaaS Dashboard">
+  <img src="imgs/Marketing/marketing1.png" width="48%" alt="Marketing ROI Dashboard">
 </p>
 
 This repository contains two End-to-End Business Intelligence projects engineered to solve critical financial dilemmas: margin erosion in scaling B2B SaaS models and inefficient capital allocation in marketing campaigns. 
@@ -33,11 +32,12 @@ Growing SaaS companies often face a dangerous paradox: climbing sales volumes ac
     *   *Directed Attention:* Strategic use of pre-attentive attributes (color and spatial positioning) to guide the user's eye directly to critical insights.
 
 <p align="center">
-  <!-- Reemplaza con 1 imagen y 1 video del SaaS -->
-  <img src="path/to/saas_dashboard_image.png" width="80%" alt="SaaS Profitability Dashboard">
+  <img src="imgs/SaaS/SaaS1.jpg" width="48%" alt="SaaS Profitability Dashboard Overview">
+  <img src="imgs/SaaS/SaaS2.jpg" width="48%" alt="SaaS Dynamic Segmentation Details">
+  <img src="imgs/SaaS/SaaS3.jpg" width="48%" alt="SaaS Dynamic Segmentation Details">
   <br>
   <i>Watch the Dynamic Segmentation in action:</i><br>
-  <video src="path/to/saas_demo_video.mp4" width="80%" controls></video>
+  <video src="imgs/SaaS/grabacion-SaaS.mp4" width="80%" controls></video>
 </p>
 
 ---
@@ -50,20 +50,20 @@ Marketing departments often struggle with "black holes" in their budget. This pr
 ### Multi-Tiered Analytical Depth
 To eliminate technical noise, the architecture is divided into three analytical layers:
 
-1.  **Executive Summary:** A rapid scan of business health. Utilizes large-number KPIs (Total Spend, Revenue, ROAS, CAC) without distracting borders. A bullet chart visually contrasts baseline LTV against the CAC ceiling, paired with a traffic-light conditional formatting system that aggressively flags destructive channels (ROAS < 1.0) in red.
-2.  **Tactical Campaign Performance:** Designed for analytical "precision surgery". A scatter plot segments campaigns into 4 quadrants via reference lines, isolating "gold mines" (low spend, high conversion) from "black holes". An integrated data-bar matrix with alert icons allows users to pause losing campaigns without processing raw numerical tables.
-3.  **Friction Analysis:** A direct focus on sales funnel drop-offs. Features a horizontal funnel chart displaying exact percentage losses between impressions, clicks, and conversions. A supplementary line chart isolates the core metric (Conversion Rate %) to evaluate funnel efficiency week-over-week.
+1. **Executive Summary**: A quick scan of business health. It uses large numbers (Total Spend, Revenue, ROAS, CAC) without distracting borders. It includes a bullet chart contrasting LTV against the CAC threshold, and a traffic-light conditional formatting system highlighting destructive channels in deep red (ROAS < 1.0).
+2. **Tactical Performance**: Aims to find winners and kill losers. A scatter plot segments campaigns into 4 quadrants, isolating "gold mines" (low spend, high conversion) from "black holes" (high spend, low conversions). A clean matrix with data bars and alert icons allows you to pause losing campaigns instantly.
+3. **Friction Analysis**: Direct focus on sales funnel drop-offs, answering the question: Where do people drop off before buying? It features a horizontal funnel chart exposing the exact drop-off percentage between impressions, clicks, and conversions. A line chart isolates the Conversion Rate (%) to evaluate week-over-week efficiency over time.
 
 ### Actionable Insight
-A zero-code analytical product that delivers immediate financial answers, allowing leadership to confidently reallocate budget toward genuinely profitable channels.
+An analytical product that delivers immediate financial answers, allowing leadership to confidently reallocate budget toward genuinely profitable channels.
 
 <p align="center">
-  <!-- Reemplaza con 2 imágenes y 1 video del Marketing ROI -->
-  <img src="path/to/marketing_scatter_plot.png" width="48%" alt="Tactical Scatter Plot">
-  <img src="path/to/marketing_funnel.png" width="48%" alt="Funnel Analysis">
+  <img src="imgs/Marketing/marketing1.png" width="48%" alt="General Analysis">
+  <img src="imgs/Marketing/marketing2.png" width="48%" alt="Tactical Scatter Plot">
+  <img src="imgs/Marketing/marketing3.png" width="48%" alt="Funnel Analysis">
   <br>
   <i>Exploring tactical campaign performance:</i><br>
-  <video src="path/to/marketing_demo_video.mp4" width="80%" controls></video>
+  <video src="imgs/Marketing/grabacion-marketing.mp4" width="80%" controls></video>
 </p>
 
 ## 🛠️ Tech Stack
@@ -78,9 +78,8 @@ A zero-code analytical product that delivers immediate financial answers, allowi
 <h1 id="español">📊 Dashboards Estratégicos: Rentabilidad SaaS y Marketing ROI</h1>
 
 <p align="center">
-  <!-- Reemplaza con tus 2 imágenes de presentación -->
-  <img src="path/to/presentation_image_1.png" width="48%" alt="Presentación del Proyecto 1">
-  <img src="path/to/presentation_image_2.png" width="48%" alt="Presentación del Proyecto 2">
+  <img src="imgs/SaaS/SaaS1.jpg" width="48%" alt="Presentación del Proyecto SaaS">
+  <img src="imgs/Marketing/marketing1.png" width="48%" alt="Presentación del Proyecto Marketing">
 </p>
 
 Este repositorio contiene dos proyectos de Inteligencia de Negocios End-to-End diseñados para resolver dilemas financieros críticos: la erosión de márgenes en modelos B2B SaaS y la asignación ineficiente de capital en campañas de marketing.
@@ -104,11 +103,12 @@ Las empresas SaaS en crecimiento suelen enfrentar una paradoja peligrosa: el aum
     *   *Atención Dirigida:* Uso estratégico de atributos preatentivos (color y posición) para guiar la vista hacia los insights críticos al instante.
 
 <p align="center">
-  <!-- Reemplaza con 1 imagen y 1 video del SaaS -->
-  <img src="path/to/saas_dashboard_image.png" width="80%" alt="Dashboard SaaS">
+  <img src="imgs/SaaS/SaaS1.jpg" width="48%" alt="Vista General Dashboard SaaS">
+  <img src="imgs/SaaS/SaaS2.jpg" width="48%" alt="Detalles de Segmentación Dinámica SaaS">
+  <img src="imgs/SaaS/SaaS3.jpg" width="48%" alt="Detalles de Segmentación Dinámica SaaS">
   <br>
   <i>Demostración de la Segmentación Dinámica:</i><br>
-  <video src="path/to/saas_demo_video.mp4" width="80%" controls></video>
+  <video src="imgs/SaaS/grabacion-SaaS.mp4" width="80%" controls></video>
 </p>
 
 ---
@@ -121,20 +121,20 @@ Los departamentos de marketing suelen luchar contra gastos ineficientes. Este pr
 ### Profundidad Analítica en 3 Niveles
 Para eliminar el ruido técnico, la arquitectura se dividió en tres capas:
 
-1.  **Resumen Ejecutivo:** Un escaneo rápido de la salud del negocio. Utiliza números en grande (Total Spend, Revenue, ROAS, CAC) sin bordes distractores. Incluye un gráfico de viñetas (bullet chart) que contrasta el LTV frente al límite del CAC, y un formato condicional tipo semáforo que resalta en rojo intenso los canales destructivos (ROAS < 1.0).
-2.  **Rendimiento Táctico:** Diseñado para la "cirugía de precisión". Un gráfico de dispersión segmenta las campañas en 4 cuadrantes, aislando las "minas de oro" (poco gasto, alta conversión) de los "agujeros negros". Una matriz limpia con barras de datos e íconos de alerta permite pausar campañas perdedoras instantáneamente.
-3.  **Análisis de Fricción:** Enfoque directo en las caídas del embudo de ventas. Presenta un gráfico de embudo horizontal que expone el porcentaje exacto de pérdida entre impresiones, clics y conversiones. Un gráfico de líneas aísla la Tasa de Conversión (%) para evaluar la eficiencia temporal semana a semana.
+1.  **Resumen Ejecutivo:** Un escaneo rápido de la salud del negocio. Utiliza números en grande (Total Spend, Revenue, ROAS, CAC) sin bordes distractores. Incluye un gráfico de viñetas que contrasta el LTV frente al límite del CAC, y un formato condicional tipo semáforo que resalta en rojo intenso los canales destructivos (ROAS < 1.0).
+2.  **Rendimiento Táctico:** Busca encontrar los ganadores y matar los perdedores. Un gráfico de dispersión segmenta las campañas en 4 cuadrantes, aislando las "minas de oro" (poco gasto, alta conversión) de los "agujeros negros" (mucho gasto, pocas conversiones). Una matriz limpia con barras de datos e íconos de alerta permite pausar campañas perdedoras instantáneamente.
+3.  **Análisis de Fricción:** Enfoque directo en las caídas del embudo de ventas, resuelve la pregunta: ¿Dónde se cae la gente antes de comprar?. Presenta un gráfico de embudo horizontal que expone el porcentaje exacto de pérdida entre impresiones, clics y conversiones. Un gráfico de líneas aísla la Tasa de Conversión (%) para evaluar la eficiencia temporal semana a semana.
 
 ### Información Accionable
-Un producto analítico *zero-code* que entrega respuestas financieras directas, permitiendo a la dirección reasignar el presupuesto hacia los canales verdaderamente rentables.
+Un producto analítico que entrega respuestas financieras directas, permitiendo a la dirección reasignar el presupuesto hacia los canales verdaderamente rentables.
 
 <p align="center">
-  <!-- Reemplaza con 2 imágenes y 1 video del Marketing ROI -->
-  <img src="path/to/marketing_scatter_plot.png" width="48%" alt="Gráfico de Dispersión Táctico">
-  <img src="path/to/marketing_funnel.png" width="48%" alt="Análisis de Embudo">
+  <img src="imgs/Marketing/marketing1.png" width="48%" alt="Análisis General">
+  <img src="imgs/Marketing/marketing2.png" width="48%" alt="Gráfico de Dispersión Táctico">
+  <img src="imgs/Marketing/marketing3.png" width="48%" alt="Análisis de Embudo">
   <br>
   <i>Explorando el rendimiento táctico de campañas:</i><br>
-  <video src="path/to/marketing_demo_video.mp4" width="80%" controls></video>
+  <video src="imgs/Marketing/grabacion-marketing.mp4" width="80%" controls></video>
 </p>
 
 ## 🛠️ Stack Tecnológico
