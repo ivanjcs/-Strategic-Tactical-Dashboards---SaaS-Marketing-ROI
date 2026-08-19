@@ -61,7 +61,7 @@ An analytical product that delivers immediate financial answers, allowing leader
   <img src="imgs/Marketing/marketing3.png" width="48%" alt="Funnel Analysis">
   <br>
   <i>Exploring tactical campaign performance:</i><br>
-  <video src="imgs/SaaS/grabacion-SaaS.mp4" width="100%" controls></video>
+  <video src="imgs/SaaS/grabacion-SaaS.mp4" width="100%" controls>a </video>
 </p>
 
 ## 🛠️ Tech Stack
