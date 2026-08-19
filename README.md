@@ -1,4 +1,4 @@
-<div align="right">
+<div align="left">
   🌐 <a href="#english">English</a> | 🇦🇷 <a href="#español">Español</a>
 </div>
 
@@ -19,6 +19,11 @@ Built strictly upon the principles of *Storytelling with Data* and Gestalt psych
 
 ## 📌 Project 1: Strategic SaaS Profitability Dashboard
 
+
+https://github.com/user-attachments/assets/d999f532-8b1c-46c7-94d4-1b37f00fc35d
+
+
+
 ### The Business Context
 Growing SaaS companies often face a dangerous paradox: climbing sales volumes accompanied by stagnant net utility. The goal of this project was to diagnose the quality of revenue, identifying customer segments that drive high volume but destroy operational value.
 
@@ -34,13 +39,13 @@ Growing SaaS companies often face a dangerous paradox: climbing sales volumes ac
   <img src="imgs/SaaS/SaaS2.jpg" width="48%" alt="SaaS Dynamic Segmentation Details">
   <img src="imgs/SaaS/SaaS3.jpg" width="48%" alt="SaaS Dynamic Segmentation Details">
   <br>
-  <i>Watch the Dynamic Segmentation in action:</i><br>
-  <video src="imgs/SaaS/grabacion-SaaS.mp4" width="80%" controls></video>
 </p>
 
 ---
 
 ## 📌 Project 2: Marketing ROI & CAC Optimization
+
+https://github.com/user-attachments/assets/852a5d0b-6ceb-4e52-979e-65369258b257
 
 ### The Business Context
 Marketing departments often struggle with "black holes" in their budget. This project transforms raw advertising campaign data into a visual decision-making engine for C-level executives. The core objective: Answer "Where are we bleeding money, and which campaigns must be killed today?" instantly.
@@ -60,8 +65,6 @@ An analytical product that delivers immediate financial answers, allowing leader
   <img src="imgs/Marketing/marketing2.png" width="48%" alt="Tactical Scatter Plot">
   <img src="imgs/Marketing/marketing3.png" width="48%" alt="Funnel Analysis">
   <br>
-  <i>Exploring tactical campaign performance:</i><br>
-  <video src="imgs/SaaS/grabacion-SaaS.mp4" width="100%" controls>a </video>
 </p>
 
 ## 🛠️ Tech Stack
@@ -88,6 +91,10 @@ Construidas estrictamente sobre los principios de *Storytelling con Datos* y la 
 
 ## 📌 Proyecto 1: Dashboard Estratégico de Rentabilidad SaaS
 
+
+https://github.com/user-attachments/assets/d999f532-8b1c-46c7-94d4-1b37f00fc35d
+
+
 ### El Contexto de Negocio
 Las empresas SaaS en crecimiento suelen enfrentar una paradoja peligrosa: el aumento del volumen de ventas acompañado de un estancamiento en la utilidad neta. El objetivo fue diagnosticar la calidad de los ingresos, identificando segmentos de clientes que, pese a generar alto volumen, destruyen valor operativo.
 
@@ -103,13 +110,13 @@ Las empresas SaaS en crecimiento suelen enfrentar una paradoja peligrosa: el aum
   <img src="imgs/SaaS/SaaS2.jpg" width="48%" alt="Detalles de Segmentación Dinámica SaaS">
   <img src="imgs/SaaS/SaaS3.jpg" width="48%" alt="Detalles de Segmentación Dinámica SaaS">
   <br>
-  <i>Demostración de la Segmentación Dinámica:</i><br>
-  https://github.com/user-attachments/assets/cf76046b-aa5b-45ae-ab36-835ad63db9c4
 </p>
 
 ---
 
 ## 📌 Proyecto 2: Optimización de ROAS y CAC (Marketing)
+
+https://github.com/user-attachments/assets/852a5d0b-6ceb-4e52-979e-65369258b257
 
 ### El Contexto de Negocio
 Los departamentos de marketing suelen luchar contra gastos ineficientes. Este proyecto transforma datos brutos publicitarios en una herramienta de decisión visual para perfiles C-level. El objetivo central: Responder de inmediato "¿Dónde estamos perdiendo dinero y qué campañas debemos apagar hoy mismo?".
@@ -129,8 +136,6 @@ Un producto analítico que entrega respuestas financieras directas, permitiendo 
   <img src="imgs/Marketing/marketing2.png" width="48%" alt="Gráfico de Dispersión Táctico">
   <img src="imgs/Marketing/marketing3.png" width="48%" alt="Análisis de Embudo">
   <br>
-  <i>Explorando el rendimiento táctico de campañas:</i><br>
-  <video src="imgs/Marketing/grabacion-marketing.mp4" width="80%" controls></video>
 </p>
 
 ## 🛠️ Stack Tecnológico
