@@ -104,7 +104,7 @@ Las empresas SaaS en crecimiento suelen enfrentar una paradoja peligrosa: el aum
   <img src="imgs/SaaS/SaaS3.jpg" width="48%" alt="Detalles de Segmentación Dinámica SaaS">
   <br>
   <i>Demostración de la Segmentación Dinámica:</i><br>
-  <video src="imgs/SaaS/grabacion-SaaS.mp4" width="80%" controls></video>
+  https://github.com/user-attachments/assets/cf76046b-aa5b-45ae-ab36-835ad63db9c4
 </p>
 
 ---
