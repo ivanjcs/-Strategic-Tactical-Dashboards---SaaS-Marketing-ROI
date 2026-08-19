@@ -19,8 +19,6 @@ Built strictly upon the principles of *Storytelling with Data* and Gestalt psych
 
 ## 📌 Project 1: Strategic SaaS Profitability Dashboard
 
-**Live Demo:** [View Dashboard on NovyPro](https://www.novypro.com/profile_about/1767415426369x736698064812161000?Popup=memberProject&Data=1767568431722x225861121663451000)
-
 ### The Business Context
 Growing SaaS companies often face a dangerous paradox: climbing sales volumes accompanied by stagnant net utility. The goal of this project was to diagnose the quality of revenue, identifying customer segments that drive high volume but destroy operational value.
 
@@ -63,7 +61,7 @@ An analytical product that delivers immediate financial answers, allowing leader
   <img src="imgs/Marketing/marketing3.png" width="48%" alt="Funnel Analysis">
   <br>
   <i>Exploring tactical campaign performance:</i><br>
-  ![Demostración del SaaS](imgs/SaaS/grabacion-SaaS.mp4)
+  <video src="imgs/SaaS/grabacion-SaaS.mp4" width="100%" controls></video>
 </p>
 
 ## 🛠️ Tech Stack
@@ -89,8 +87,6 @@ Construidas estrictamente sobre los principios de *Storytelling con Datos* y la 
 ---
 
 ## 📌 Proyecto 1: Dashboard Estratégico de Rentabilidad SaaS
-
-**Demo Interactiva:** [Ver Dashboard en NovyPro](https://www.novypro.com/profile_about/1767415426369x736698064812161000?Popup=memberProject&Data=1767568431722x225861121663451000)
 
 ### El Contexto de Negocio
 Las empresas SaaS en crecimiento suelen enfrentar una paradoja peligrosa: el aumento del volumen de ventas acompañado de un estancamiento en la utilidad neta. El objetivo fue diagnosticar la calidad de los ingresos, identificando segmentos de clientes que, pese a generar alto volumen, destruyen valor operativo.
